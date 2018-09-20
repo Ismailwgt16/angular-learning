@@ -1,0 +1,9 @@
+.alert {
+    display: block;
+    padding: 0;
+    color: red;
+}
+
+.container {
+    padding: 4em 0;
+}
